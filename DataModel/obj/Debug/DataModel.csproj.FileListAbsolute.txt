@@ -1,0 +1,5 @@
+E:\schoolProj\SchoolApp\SchoolAdministration\DataModel\bin\Debug\DataModel.dll
+E:\schoolProj\SchoolApp\SchoolAdministration\DataModel\bin\Debug\DataModel.pdb
+E:\schoolProj\SchoolApp\SchoolAdministration\DataModel\obj\Debug\DataModel.dll
+E:\schoolProj\SchoolApp\SchoolAdministration\DataModel\obj\Debug\DataModel.pdb
+E:\schoolProj\SchoolApp\SchoolAdministration\DataModel\obj\Debug\DataModel.csprojResolveAssemblyReference.cache

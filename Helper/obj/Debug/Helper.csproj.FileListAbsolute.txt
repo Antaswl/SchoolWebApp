@@ -1,0 +1,5 @@
+E:\schoolProj\SchoolApp\SchoolAdministration\Helper\bin\Debug\Helper.dll
+E:\schoolProj\SchoolApp\SchoolAdministration\Helper\bin\Debug\Helper.pdb
+E:\schoolProj\SchoolApp\SchoolAdministration\Helper\obj\Debug\Helper.csprojResolveAssemblyReference.cache
+E:\schoolProj\SchoolApp\SchoolAdministration\Helper\obj\Debug\Helper.dll
+E:\schoolProj\SchoolApp\SchoolAdministration\Helper\obj\Debug\Helper.pdb
